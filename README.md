@@ -1,2 +1,2 @@
-# Cosmoport-theme-VS-code-Kate
+# Cosmoport theme (VScode/Kate)
 Low contrast theme
